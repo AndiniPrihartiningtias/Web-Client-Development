@@ -92,14 +92,13 @@ console.log(isPalindrome("pagi")); // false
 ## Cara Menjalankan
 1. Pastikan Node.js telah terinstal di komputer.
 2. Simpan kode dalam file index.ts.
-3. Jalankan perintah berikut untuk mengompilasi 
+3. Jalankan perintah berikut untuk mengompilasi TypeScript ke JavaScript: 
 
-TypeScript ke JavaScript: 
- `tsc index.ts`
-4. Jalankan file JavaScript yang dihasilkan menggunakan 
+     `tsc index.ts`
+ 
+4. Jalankan file JavaScript yang dihasilkan menggunakan Node.js: 
 
-Node.js: 
- `node index.js`
+     `node index.js`
 
 ## Teknologi yang Digunakan
 - Typescript *(bahasa pemprograman open-source superset dari javascript)*
@@ -116,4 +115,5 @@ Node.js:
 - Nama: Andini Prihartiningtias
 - Nim: 24120510003
 - Prodi: Science Data
+- Universitas Cakrawala
 - Email: andinipriha1005@gmail.com
