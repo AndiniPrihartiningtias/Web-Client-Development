@@ -35,8 +35,7 @@ let teks: string = "Welcome";
 function removeFirstOccurrence(str: string, search: string, append: string): string {
    return str.replace(search, '') + " " + append;
 }
-
-console.log(removeFirstOccurrence(person, "dini", teks));
+console.log(removeFirstOccurrence(person, "dini", teks))
 
 //Palindrome
 function isPalindrome(str: string): boolean {
