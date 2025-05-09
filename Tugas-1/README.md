@@ -18,6 +18,7 @@ Repository ini dibuat untuk tugas-1 mata kuliah Web Client Development, dalam tu
 
 ## Struktur Folder
 Berikut adalah struktur folder dalam proyek ini:
+```
 tugas-typescript/
 ├── node_modules/
 ├── index.js
@@ -26,6 +27,7 @@ tugas-typescript/
 ├── package.json
 ├── tsconfig.json
 └── README.md
+```
 
 ## Penulis
 - Nama: Andini Prihartiningtias
